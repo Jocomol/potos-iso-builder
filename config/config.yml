@@ -4,7 +4,7 @@ client_name:
   short: "potos"
 disk_encryption:
   enable: false
-  init_password: "install"
+  init_password: "encpasswd"
 specs:
   url: "https://github.com/Jocomol/"
   repo: "ansible-specs-potos"
